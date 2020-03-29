@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Onion.Domain\Onion.Domain.csproj" />
     <ProjectReference Include="..\Onion.Infrastructure.MockDbService\Onion.Infrastructure.MockDbService.csproj" />
+    <ProjectReference Include="..\Onion.Infrastructure.MsSqlDbService\Onion.Infrastructure.MsSqlDbService.csproj" />
   </ItemGroup>
 
   <ItemGroup>
